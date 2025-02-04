@@ -21,6 +21,9 @@ body {
     background-size: cover;
     background-position: center;
 }
+.header-text p{
+    font-weight: 500;
+}
 
 .container {
     padding: 10px 10%;
